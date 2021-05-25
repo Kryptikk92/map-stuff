@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "ol": "^6.5.0",
+    "osmtogeojson": "^3.0.0-beta.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
